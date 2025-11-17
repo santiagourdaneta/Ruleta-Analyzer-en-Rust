@@ -1,0 +1,13 @@
+# Archivos de build y paquetes de Cargo
+/target/
+
+# Dependencias y Bloqueo
+Cargo.lock
+
+# Archivos de OS y Editor
+.DS_Store
+.vscode/
+
+# Binarios de testing
+/target/debug/
+/target/release/
